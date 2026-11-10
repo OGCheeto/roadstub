@@ -66,3 +66,5 @@ footer .wrap{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
  .ctas .btn{flex:1 1 100%}
  .phone{width:min(250px,64vw);margin-right:18%}
 }
+
+.price .btn.soon{background:rgba(255,255,255,.16);color:#fff;border:1.5px dashed rgba(255,255,255,.7);box-shadow:none;cursor:default}
